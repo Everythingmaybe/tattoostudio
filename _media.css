@@ -38,7 +38,7 @@
 		font-size: 25px;
 	}
 
-	#f h3, #footer h3 {
+	.f h3, .footer h3 {
 	    font-size: 23px;
 	}
 
@@ -46,7 +46,7 @@
     	font-size: 19px;
 	}
 	
-	#f p, #footer p {
+	.f p, .footer p {
 	    font-size: 13px;
 	}
 	
@@ -116,7 +116,7 @@
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
 
-	#f p, #footer p {
+	.f p, .footer p {
 	    font-size: 11px;
 	}
 	

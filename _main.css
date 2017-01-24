@@ -66,39 +66,39 @@ a:after {
 
 /* Footer Wrap */
 
-#f, #footer {
+.f, .footer {
 	background: #242424;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center
 }
 
-#footer{
+.footer{
 	background: url(img/footer.JPG) no-repeat center bottom;
 	position: relative;
     background-size: cover;
     z-index:2;
 }
 
-#f h3, #footer h3 {
+.f h3, .footer h3 {
 	color: white;
 	font-size: 28px;
 	font-weight: 700;
 	letter-spacing: 1px;	
 }
 
-#f i, #footer i {
+.f i, .footer i {
 	font-size: 8px;
-	color: #fff;
+	color: .fff;
     padding: 3px;
 }
 
-#f p, #footer p {
+.f p, .footer p {
 	font-size: 16px;
-	color: #f2f2f2;
+	color: .f2f2f2;
 }
 
-#f img, #footer img {
+.f img, .footer img {
 	text-align: center;
 }
 
